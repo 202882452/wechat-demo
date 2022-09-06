@@ -28,7 +28,7 @@ wechat:
             cityCode: 440100
             constellation: 双子座
           #把‘填写你的需要特定配置的微信用户号’覆盖位微信用户ID，可以对照正确填写好的配置示例，多用户可以按照格式继续添加下去
-          填写你的需要特定配置的微信用户号:
+          填写你的需要特定配置的微信用户号: oQhRs5iTsKtQcVk-69xpC0oOW990
             title: 早上好呀呀鸭
             meetDate: '2021-08-11'
             city: 上海
